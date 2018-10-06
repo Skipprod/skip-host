@@ -1,0 +1,4 @@
+npm i vk-io
+npm i colors
+npm i fs
+npm i lowdb
